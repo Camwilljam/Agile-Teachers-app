@@ -1,0 +1,9 @@
+First log in as a student.
+Type in a name and then choose a subject
+type your probelm into the comment box then click send
+log out as a student.
+
+then log in as a teacher
+choose the subject you want and click update
+once you have clicked update you should be able to see the comments.
+it will have the students name, the date and time it was sent along with the students comments.
